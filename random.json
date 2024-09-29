@@ -4,5 +4,5 @@
   "pass": "CPU",
   "light": false,
   "threads": 4,
-  "log": 1
+  "log": null
 }
